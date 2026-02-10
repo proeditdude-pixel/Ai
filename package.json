@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "ai": "latest",
-    "@ai-sdk/openai": "latest",
+    "@ai-sdk/deepseek": "latest",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
